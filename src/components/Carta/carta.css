@@ -1,0 +1,16 @@
+.card {
+    width: 200px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: beige;
+  }
+  .card img {
+    width: 12rem;
+    height: 20rem;
+  }
+  
+  .card p {
+    color: brown
+  }
+
+ 
